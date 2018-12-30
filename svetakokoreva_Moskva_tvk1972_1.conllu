@@ -1,0 +1,235 @@
+﻿tvk@
+
+# sent_id = 41
+# text = я вспоминаю, как мы жили в одном доме с афганцами, как мы играли с ними во дворе в настольный теннис...
+1	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	2	nsubj	_	_
+2	вспоминаю	вспоминать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	6	punct	_	_
+4	как	как	SCONJ	_	_	6	mark	_	_
+5	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	6	nsubj	_	_
+6	жили	жить	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	ccomp	_	_
+7	в	в	ADP	_	_	9	case	_	_
+8	одном	один	!NUM	_	Case=Loc|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	доме	дом	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	6	obl	_	_
+10	с	с	ADP	_	_	11	case	_	_
+11	афганцами	афганец	NOUN	_	Animacy=Anim|Case=Ins|Gender=Masc|Number=Plur	9	nmod	_	SpaceAfter=No
+12	,	,	PUNCT	_	_	15	punct	_	_
+13	как	как	SCONJ	_	_	15	mark	_	_
+14	мы	мы	PRON	_	Case=Nom|Number=Plur|Person=1	15	nsubj	_	_
+15	играли	играть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	6	advcl	_	_
+16	с	с	ADP	_	_	17	case	_	_
+17	ними	они	PRON	_	Case=Ins|Number=Plur|Person=3	15	obl	_	_
+18	во	в	ADP	_	_	19	case	_	_
+19	дворе	двор	NOUN	_	Animacy=Inan|Case=Loc|Gender=Masc|Number=Sing	15	obl	_	_
+20	в	в	ADP	_	_	22	case	_	_
+21	настольный	настольный	ADJ	_	Case=Acc2|Degree=Pos|Gender=Masc|Number=Sing	22	amod	_	_
+22	теннис	теннис	NOUN	_	Animacy=Inan|Case=Acc2|Gender=Masc|Number=Sing	15	obl	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	22	punct	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	2	punct	_	SpaceAfter=No
+25	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
+
+tvk@
+
+# sent_id = 43
+# text = ааа...
+1	ааа	ааа	INTJ	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+tvk@
+
+# sent_id = 45
+# text = Меньше вспоминаю про какие-то... ммм... неприятные события, скорее, об этом могут вспоминать мои родители... эмм... о событиях, я имею в виду, связанные с военными действиями.
+1	Меньше	мало	ADV	_	Degree=Cmp	2	advmod	_	_
+2	вспоминаю	вспоминать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	про	про	ADP	_	_	4	case	_	_
+4	какие-то	какой-то	DET	_	Case=Nom|Number=Plur	8	det	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	4	punct	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	4	punct	_	_
+8	ммм	ммм	INTJ	_	_	2	nsubj	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	19	punct	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	19	punct	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	10	punct	_	_
+12	неприятные	неприятный	ADJ	_	Case=Acc|Degree=Pos|Number=Plur	13	amod	_	_
+13	события	событие	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Plur	10	nsubj	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	15	punct	_	_
+15	скорее	скорее	ADV	_	_	19	advmod	_	SpaceAfter=No
+16	,	,	PUNCT	_	_	15	punct	_	_
+17	об	о	ADP	_	_	18	case	_	_
+18	этом	это	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	20	obl	_	_
+19	могут	мочь	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	8	acl:relcl	_	_
+20	вспоминать	вспоминать	VERB	_	Aspect=Imp|VerbForm=Inf|Voice=Act	19	xcomp	_	_
+21	мои	мой	DET	_	Case=Nom|Number=Plur	22	det	_	_
+22	родители	родитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	19	nsubj	_	SpaceAfter=No
+23	.	.	PUNCT	_	_	22	punct	_	SpaceAfter=No
+24	.	.	PUNCT	_	_	19	punct	_	SpaceAfter=No
+25	.	.	PUNCT  	_	_	22	punct	_	_
+26	эмм.	эмм.   INTJ   _   _	  22	conj	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	26	punct	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	26	punct	_	_
+29	о	о	ADP	_	_	30	case	_	_
+30	событиях	событие	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Plur	26	nmod	_	SpaceAfter=No
+31	,	,	PUNCT	_	_	33	punct	_	_
+32	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	33	nsubj	_	_
+33	имею	иметь	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	19	conj	_	_
+34	в	в	ADP	_	_	33	advmod	_	_
+35	виду	вид	NOUN	_	Animacy=Inan|Case=Loc2|Gender=Masc|Number=Sing	34	fixed	_	SpaceAfter=No
+36	,	,	PUNCT	_	_	37	punct	_	_
+37	связанные	связать	VERB	_	Aspect=Perf|!Case=Nom|Number=Plur|Tense=Past|VerbForm=Part|Voice=Pass	33	advcl	_	_
+38	с	с	ADP	_	_	40	case	_	_
+39	военными	военный	ADJ	_	Case=Ins|Degree=Pos|Number=Plur	40	amod	_	_
+40	действиями	действие	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Plur	37	obl	_	SpaceAfter=No
+41	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
+
+tvk@
+
+# sent_id = 47
+# text = Я училась в школе при посольстве, и познакомилась там с множеством друзей из разных республик Советского Союза, и долгое время переписывалась с ними...
+1	Я	я	PRON	_	Case=Nom|Number=Sing|Person=1	2	nsubj	_	_
+2	училась	учиться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	0	root	_	_
+3	в	в	ADP	_	_	4	case	_	_
+4	школе	школа	NOUN	_	Animacy=Inan|Case=Loc2|Gender=Fem|Number=Sing	2	obl	_	_
+5	при	при	ADP	_	_	6	case	_	_
+6	посольстве	посольство	NOUN	_	Animacy=Inan|Case=Loc2|Gender=Neut|Number=Sing	2	obl	_	SpaceAfter=No
+7	,	,	PUNCT	_	_	9	punct	_	_
+8	и	и	CCONJ	_	_	9	cc	_	_
+9	познакомилась	знакомиться	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	_
+10	там	там	ADV	_	_	9	advmod	_	_
+11	с	с	ADP	_	_	12	case	_	_
+12	множеством	множество	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	9	obl	_	_
+13	друзей	друг	NOUN	_	Animacy=Anim|Case=Gen|Gender=Masc|Number=Plur	12	nmod	_	_
+14	из	из	ADP	_	_	16	case	_	_
+15	разных	разный	ADJ	_	Case=Gen|Degree=Pos|Number=Plur	16	amod	_	_
+16	республик	республика	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Plur	9	obl	_	_
+17	Советского	советский	!PROPN	_	Case=Gen|Degree=Pos|Gender=Masc|Number=Sing	18	amod	_	_
+18	Союза	Союз	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	16	nmod	_	SpaceAfter=No
+19	,	,	PUNCT	_	_	23	punct	_	_
+20	и	и	CCONJ	_	_	23	cc	_	_
+21	долгое	долгий	ADJ	_	!Case=Acc|Degree=Pos|Gender=Neut|Number=Sing	22	amod	_	_
+22	время	время	NOUN	_	Animacy=Inan|!Case=Acc|Gender=Neut|Number=Sing	23	obl	_	_
+23	переписывалась	переписываться	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Mid	2	conj	_	_
+24	с	с	ADP	_	_	25	case	_	_
+25	ними	они	PRON	_	Case=Ins|Number=Plur|Person=3	23	obl	_	SpaceAfter=No
+26	.	.	PUNCT	_	_	25	punct	_	SpaceAfter=No
+27	.	.	PUNCT	_	_	25	punct	_	SpaceAfter=No
+28	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
+
+tvk@
+
+# sent_id = 49
+# text = У меня были друзья и из Белоруссии, ааа...
+1	У	у	ADP	_	_	2	case	_	_
+2	меня	я	PRON	_	Case=Gen|Number=Sing|Person=1	0	root	_	_
+3	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	2	cop	_	_
+4	друзья	друг	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	2	nsubj	_	_
+5	и	и	CCONJ	_	_	7	advmod	_	_
+6	из	из	ADP	_	_	7	case	_	_
+7	Белоруссии	Белоруссия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	4	nmod	_	SpaceAfter=No
+8	,	,	PUNCT	_	_	9	punct	_	_
+9	ааа	ааа	INTJ	_	_	4	conj	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	9	punct	_	SpaceAfter=No
+11	.	.	PUNCT	_	_	9	punct	_	SpaceAfter=No
+12	.	.	PUNCT	_	_	4	punct	_	SpacesAfter=\n\n
+
+tvk@
+
+# sent_id = 51
+# text = и из Украины, ааа...
+1	и	и	CCONJ	_	_	3	cc	_	_
+2	из	из	ADP	_	_	3	case	_	_
+3	Украины	Украина	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	ааа	ааа	INTJ	_	_	3	conj	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+7	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
+
+tvk@
+
+# sent_id = 53
+# text = и из Таджикистана, Узбекистана, Киргизии...
+1	и	и	CCONJ	_	_	3	cc	_	_
+2	из	из	ADP	_	_	3	case	_	_
+3	Таджикистана	Таджикистан	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	0	root	_	SpaceAfter=No
+4	,	,	PUNCT	_	_	5	punct	_	_
+5	Узбекистана	Узбекистан	PROPN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	3	conj	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	Киргизии	Киргизия	PROPN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	3	conj	_	SpaceAfter=No
+8	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+9	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+10	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
+
+tvk@
+
+# sent_id = 55
+# text = эээ...
+1	эээ	эээ	INTJ	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+tvk@
+
+# sent_id = 57
+# text = В общем, было интересно, был хороший колектив, были хорошие учителя, и в целом...
+1	В	в	!ADV	_	_	2	case	_	_
+2	общем	!общем	!ADV	_	_	SpaceAfter=No
+3	,	,	PUNCT	_	_	2	punct	_	_
+4	было	быть	AUX	_	Aspect=Imp|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	_
+5	интересно	интересно	PRAEDIC	_	Degree=Pos|Tense=Past	0	root	_	SpaceAfter=No
+6	,	,	PUNCT	_	_	7	punct	_	_
+7	был	быть	AUX	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	cop	_	_
+8	хороший	хороший	ADJ	_	Case=Nom|Degree=Pos|Gender=Masc|Number=Sing	9	amod	_	_
+9	колектив	колектив	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	5	nsubj	_	SpaceAfter=No
+10	,	,	PUNCT	_	_	13	punct	_	_
+11	были	быть	AUX	_	Aspect=Imp|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	13	cop	_	_
+12	хорошие	хороший	ADJ	_	Case=Nom|Degree=Pos|Number=Plur	13	amod	_	_
+13	учителя	учитель	NOUN	_	Animacy=Anim|Case=Nom|Gender=Masc|Number=Plur	5	parataxis	_	SpaceAfter=No
+14	,	,	PUNCT	_	_	17	punct	_	_
+15	и	и	CCONJ	_	_	17	cc	_	_
+16	в	в	!ADV	_	_	17	case	_	_
+17	целом	!целом	!ADV	_	Degree=Pos	13	conj	_	SpaceAfter=No
+18	.	.	PUNCT	_	_	17	punct	_	SpaceAfter=No
+19	.	.	PUNCT	_	_	17	punct	_	SpaceAfter=No
+20	.	.	PUNCT	_	_	5	punct	_	SpacesAfter=\n\n
+
+tvk@
+
+# sent_id = 59
+# text = эээ...
+1	эээ	эээ	INTJ	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+tvk@
+
+# sent_id = 61
+# text = эти два года...
+1	эти	этот	DET	_	Case=Acc|Number=Plur	3	det	_	_
+2	два	два	NUM	_	Case=Acc|Gender=Masc	3	nummod:gov	_	_
+3	года	год	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|!Number=Plur	0	root	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	3	punct	_	SpaceAfter=No
+6	.	.	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
+
+tvk@
+
+# sent_id = 63
+# text = ммм...
+1	ммм	ммм	INTJ	_	_	0	root	_	SpaceAfter=No
+2	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+3	.	.	PUNCT	_	_	1	punct	_	SpaceAfter=No
+4	.	.	PUNCT	_	_	1	punct	_	SpacesAfter=\n\n
+
+tvk@
+
+# sent_id = 65
+# text = я вспоминаю с теплотой.
+1	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	2	nsubj	_	_
+2	вспоминаю	вспоминать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+3	с	с	ADP	_	_	4	case	_	_
+4	теплотой	теплота	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	2	obl	_	SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	_	SpacesAfter=\n\n
